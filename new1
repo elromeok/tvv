@@ -151,12 +151,6 @@ http://179.1.144.192:4000/play/a00a/index.m3u8
 http://179.1.144.192:4000/play/a004/index.m3u8
 #EXTINF:-1,Paramount HD
 http://179.1.144.192:4000/play/a02t/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://179.1.144.192:4000/play/a01a/index.m3u8
-#EXTINF:-1,PlayBoy HD
-http://179.1.144.192:4000/play/a02h/index.m3u8
-#EXTINF:-1,RCN HD
-http://179.1.144.192:4000/play/a02g/index.m3u8
 #EXTINF:-1,RED Televisiðn
 http://179.1.144.192:4000/play/a011/index.m3u8
 #EXTINF:-1,RPP
@@ -171,8 +165,6 @@ http://179.1.144.192:4000/play/a00t/index.m3u8
 http://179.1.144.192:4000/play/a028/index.m3u8
 #EXTINF:-1,STAR TVE HD
 http://179.1.144.192:4000/play/a02v/index.m3u8
-#EXTINF:-1,Sextreme
-http://179.1.144.192:4000/play/a016/index.m3u8
 #EXTINF:-1,Sony HD
 http://179.1.144.192:4000/play/a00j/index.m3u8
 #EXTINF:-1,Space HD
@@ -213,8 +205,6 @@ http://179.1.144.192:4000/play/a023/index.m3u8
 http://179.1.144.192:4000/play/a020/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://179.1.144.192:4000/play/a029/index.m3u8
-#EXTINF:-1,Venus
-http://179.1.144.192:4000/play/a015/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://179.1.144.192:4000/play/a00k/index.m3u8
 #EXTINF:-1,Win Sports HD
